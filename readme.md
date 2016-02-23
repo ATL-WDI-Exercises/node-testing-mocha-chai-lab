@@ -8,7 +8,7 @@ creator:
 competencies: Testing
 ---
 
-# Teseting with Mocha/Chai Lab
+# Testing with Mocha/Chai Lab
 
 ## Introduction
 
